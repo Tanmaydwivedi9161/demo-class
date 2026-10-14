@@ -13,3 +13,12 @@ function subtract(a,b){
 
 
 subtract(10,3)
+
+
+
+function multiply(a,b){
+    return a - b 
+}
+
+
+muplyting(10,3)
